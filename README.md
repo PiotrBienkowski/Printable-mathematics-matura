@@ -1,6 +1,6 @@
 # Printable-mathematics-matura
 
-It makes math matura tasks printable - a typical matura form required. It takes a list of exercises and compresses it by removing blank space between.
+It makes math matura tasks printable - a typical matura form required. It takes a list of tasks and compresses it by removing blank space between.
 
 <b>Before change:</b> <br />
 Task <br />
