@@ -133,7 +133,6 @@ def mergeImages(files, page_size):
 
 def pdfMerger(files):
     pdfs = []
-  
     cnt = 0
     for i in files:
         image = PIL.Image.open(i)
